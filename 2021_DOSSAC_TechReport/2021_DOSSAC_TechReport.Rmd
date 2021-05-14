@@ -287,7 +287,7 @@ adtest.rslt=nortest::ad.test(tmp)
 
 # Purpose of this Report
 
-The purpose of this report is to evaluate proposed Florida Department of Environmental Protection (FDEP) Dissolved Oxygen (DO) Site Specific Alternative Criteria (SSACs) for select streams listed in the assessment category 4c. In February 2021, FDEP through the triennial review process, proposed DO SSAC for eight waterbodies (FDEP 2021) This analysis focuses on three of the eight waterbodies located in Charlotte, Lee, Glades and Hendry counties and includes Daughtrey (\textit{WBID 3240F}), Popash (\textit{WBID 3240Q}) and Cypress (\textit{WBID 3235C}). In addition to evaluating the proposed SSACs for the waterbodies listed above, the data was also evaluated for an alternative SSAC.
+The purpose of this report is to evaluate proposed Florida Department of Environmental Protection (FDEP) Dissolved Oxygen (DO) Site Specific Alternative Criteria (SSACs) for select streams listed in the assessment category 4c. In February 2021, FDEP through the triennial review process proposed DO SSAC for eight waterbodies (FDEP 2021). This analysis focuses on three of the eight waterbodies located in Charlotte, Lee, Glades and Hendry counties and includes Daughtrey (\textit{WBID 3240F}), Popash (\textit{WBID 3240Q}) and Cypress (\textit{WBID 3235C}).
 
 Below are specific comments regarding FDEPs technical support document (FDEP 2021):
 

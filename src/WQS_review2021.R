@@ -39,8 +39,10 @@ data.path=paths[3]
 
 GIS.path="C:/Julian_LaCie/_GISData"
 
-public.token="pk.eyJ1IjoicGp1bGlhbiIsImEiOiJjanllbmJ0eXkxMzV0M2dzNXh5NGRlYXdqIn0.g4weKGOt1WdNZLg2hxBz1w"
-Sys.setenv(MAPBOX_API_KEY=public.token)
+## add mapbox token here
+## See Ceramic package for info
+# public.token=" "
+# Sys.setenv(MAPBOX_API_KEY=public.token)
 
 # Helper variables
 nad83.pro=CRS("+init=epsg:4269")

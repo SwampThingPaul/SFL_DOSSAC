@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.5.10)  14 MAY 2021 10:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.5.10)  14 MAY 2021 12:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -765,35 +765,35 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {c:/Users/Paul Julian/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap
 /pdftex.map}] [2] [3]
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 342.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 339.
 [4pdfTeX warning (ext4): destination with the same identifier (name{table.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.371 
+l.368 
       ]
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 3
-92.
+89.
 
 (c:/Users/Paul Julian/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/omlcmr.
 fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <11> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 392.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 389.
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trendmap.png, id=146, 307.1
 475pt x 289.08pt>
 File: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trendmap.png Graphic f
 ile (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trendmap.png>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_tre
-ndmap.png  used on input line 411.
+ndmap.png  used on input line 408.
 (pdftex.def)             Requested size: 408.0pt x 384.02605pt.
 [5pdfTeX warning (ext4): destination with the same identifier (name{table.2}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.413 
+l.410 
       ]
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trend.png, id=155, 469.755p
 t x 289.08pt>
@@ -801,13 +801,13 @@ File: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trend.png Graphic file
  (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trend.png>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_tre
-nd.png  used on input line 415.
+nd.png  used on input line 412.
 (pdftex.def)             Requested size: 408.0pt x 251.0785pt.
 [6pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.417 
+l.414 
        <c:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trendmap.png (PNG co
 py)>]
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trendmodel_ACF.png, id=160,
@@ -816,18 +816,18 @@ File: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trendmodel_ACF.png Gra
 phic file (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trendmodel_ACF.png>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_tre
-ndmodel_ACF.png  used on input line 420.
+ndmodel_ACF.png  used on input line 417.
 (pdftex.def)             Requested size: 306.0pt x 229.51314pt.
 [7pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.444 
+l.441 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.444 
+l.441 
        <c:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trend.png> <c:/Julia
 n_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trendmodel_ACF.png>]
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_normDist.png, id=169, 469.7
@@ -836,38 +836,38 @@ File: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_normDist.png Graphic f
 ile (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_normDist.png>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_nor
-mDist.png  used on input line 461.
+mDist.png  used on input line 458.
 (pdftex.def)             Requested size: 408.0pt x 313.84816pt.
 [8pdfTeX warning (ext4): destination with the same identifier (name{table.3}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.482 
+l.479 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.482 
+l.479 
        <c:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_normDist.png>]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
-55.
+52.
 
 (c:/Users/Paul Julian/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/omscmr.
 fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <11> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 555.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 552.
 [9pdfTeX warning (ext4): destination with the same identifier (name{table.4}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.562 
+l.559 
       pdfTeX warning (ext4): destination with the same identifier (name{table.5
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.562 
+l.559 
       ]
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_trendmap.png, id=196, 252.9
 45pt x 289.08pt>
@@ -875,7 +875,7 @@ File: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_trendmap.png Graphic f
 ile (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_trendmap.png>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_tre
-ndmap.png  used on input line 565.
+ndmap.png  used on input line 562.
 (pdftex.def)             Requested size: 408.0pt x 466.29561pt.
 [10]
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_trend.png, id=203, 469.755p
@@ -884,13 +884,13 @@ File: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_trend.png Graphic file
  (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_trend.png>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_tre
-nd.png  used on input line 574.
+nd.png  used on input line 571.
 (pdftex.def)             Requested size: 408.0pt x 251.0785pt.
 [11pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.580 
+l.577 
        <c:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_trendmap.png (PNG co
 py)>]
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_trendmodel_ACF.png, id=208,
@@ -899,18 +899,18 @@ File: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_trendmodel_ACF.png Gra
 phic file (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_trendmodel_ACF.png>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_tre
-ndmodel_ACF.png  used on input line 583.
+ndmodel_ACF.png  used on input line 580.
 (pdftex.def)             Requested size: 306.0pt x 229.51314pt.
 [12pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.604 
+l.601 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.604 
+l.601 
        <c:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_trend.png> <c:/Julia
 n_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_trendmodel_ACF.png>]
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_normDist.png, id=216, 469.7
@@ -919,18 +919,18 @@ File: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_normDist.png Graphic f
 ile (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_normDist.png>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_nor
-mDist.png  used on input line 619.
+mDist.png  used on input line 616.
 (pdftex.def)             Requested size: 408.0pt x 313.84816pt.
 [13pdfTeX warning (ext4): destination with the same identifier (name{table.6}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.645 
+l.642 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.645 
+l.642 
        <c:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240Q_normDist.png>]
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_trendmap.png, id=230, 361.3
 5pt x 216.81pt>
@@ -938,18 +938,18 @@ File: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_trendmap.png Graphic f
 ile (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_trendmap.png>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_tre
-ndmap.png  used on input line 695.
+ndmap.png  used on input line 692.
 (pdftex.def)             Requested size: 408.0pt x 244.80055pt.
 [14pdfTeX warning (ext4): destination with the same identifier (name{table.7}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.701 
+l.698 
       pdfTeX warning (ext4): destination with the same identifier (name{table.8
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.701 
+l.698 
       ]
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_trend.png, id=244, 469.755p
 t x 289.08pt>
@@ -957,18 +957,18 @@ File: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_trend.png Graphic file
  (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_trend.png>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_tre
-nd.png  used on input line 744.
+nd.png  used on input line 741.
 (pdftex.def)             Requested size: 408.0pt x 251.0785pt.
 [15pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.750 
+l.747 
       pdfTeX warning (ext4): destination with the same identifier (name{table.9
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.750 
+l.747 
        <c:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_trendmap.png (PNG co
 py)>]
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_trendmodel_ACF.png, id=253,
@@ -977,18 +977,18 @@ File: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_trendmodel_ACF.png Gra
 phic file (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_trendmodel_ACF.png>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_tre
-ndmodel_ACF.png  used on input line 753.
+ndmodel_ACF.png  used on input line 750.
 (pdftex.def)             Requested size: 306.0pt x 229.51314pt.
 [16pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
 ) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.776 
+l.773 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 11}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.776 
+l.773 
        <c:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_trend.png> <c:/Julia
 n_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_trendmodel_ACF.png>]
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_normDist.png, id=265, 469.7
@@ -997,7 +997,7 @@ File: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_normDist.png Graphic f
 ile (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_normDist.png>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_nor
-mDist.png  used on input line 779.
+mDist.png  used on input line 776.
 (pdftex.def)             Requested size: 408.0pt x 313.84816pt.
 <C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_normDist_CCsitesOnly.png, i
 d=266, 469.755pt x 361.35pt>
@@ -1006,197 +1006,197 @@ ng Graphic file (type png)
 <use C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_normDist_CCsitesOnly.pn
 g>
 Package pdftex.def Info: C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_nor
-mDist_CCsitesOnly.png  used on input line 788.
+mDist_CCsitesOnly.png  used on input line 785.
 (pdftex.def)             Requested size: 408.0pt x 313.84816pt.
 [17pdfTeX warning (ext4): destination with the same identifier (name{figure.12}
 ) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.794 
+l.791 
        <c:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_normDist.png>] [18pd
 fTeX warning (ext4): destination with the same identifier (name{figure.13}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.826   W
+l.823   W
          hile not evaluated in this report, FDEP recommends the adoption of <c:
 /Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3235C_normDist_CCsitesOnly.png>]
-Underfull \hbox (badness 1052) in paragraph at lines 870--874
+Underfull \hbox (badness 1052) in paragraph at lines 867--871
 []\OT1/cmr/m/n/10.95 Pe~na EA, Slate EH (2006) Global Val-i-da-tion of Lin-ear 
 Model As-sump-
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 870--874
+Underfull \hbox (badness 1708) in paragraph at lines 867--871
 \OT1/cmr/m/n/10.95 tions. Jour-nal of the Amer-i-can Sta-tis-ti-cal As-so-ci-a-
 tion 101:341--354. doi:
  []
 
 [19]
 
-Package xcolor Warning: Incompatible color definition on input line 898.
+Package xcolor Warning: Incompatible color definition on input line 895.
 
 LaTeX Font Info:    Trying to load font information for OML+cmtt on input line 
-945.
-LaTeX Font Info:    No file OMLcmtt.fd. on input line 945.
+942.
+LaTeX Font Info:    No file OMLcmtt.fd. on input line 942.
 
 LaTeX Font Warning: Font shape `OML/cmtt/m/n' undefined
 (Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textless' on input line 945.
+(Font)              for symbol `textless' on input line 942.
 
 LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
-956.
+953.
 
 (c:/Users/Paul Julian/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ts1cmtt
 .fd
 File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <11> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 958.
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 955.
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/it' in size <11> not available
-(Font)              Font shape `OT1/cmtt/m/it' tried instead on input line 958.
+(Font)              Font shape `OT1/cmtt/m/it' tried instead on input line 955.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 [20]
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 [21]
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 [22]
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 [23]
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 [24]
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 [25]
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1262
+Underfull \vbox (badness 10000) detected at line 1259
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 [26]
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1262.
+Package xcolor Warning: Incompatible color definition on input line 1259.
 
 [27]pdfTeX warning (ext4): destination with the same identifier (name{table.1})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1273 \caption
+l.1270 \caption
                {\label{tab:tabs1}Monitoring locations, coordinates and disso...
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1273 ...ns within Daughtery Creek (WBID 3240F).}
+l.1270 ...ns within Daughtery Creek (WBID 3240F).}
                                                   
-Overfull \hbox (10.5008pt too wide) in paragraph at lines 1276--1298
+Overfull \hbox (10.5008pt too wide) in paragraph at lines 1273--1295
  [][] 
  []
 
@@ -1204,15 +1204,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1302 \caption
+l.1299 \caption
                {\label{tab:tabs2}\label{tab_s2} Monitoring locations, coordi...
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1302 ...tions within Popash Creek (WBID 3240Q).}
+l.1299 ...tions within Popash Creek (WBID 3240Q).}
                                                   
-Overfull \hbox (10.5008pt too wide) in paragraph at lines 1305--1327
+Overfull \hbox (10.5008pt too wide) in paragraph at lines 1302--1324
  [][] 
  []
 
@@ -1220,15 +1220,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1331 \caption
+l.1328 \caption
                {\label{tab:tabs3}\label{tab_s3} Monitoring locations, coordi...
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1331 ...ions within Cypress Creek (WBID 3235C).}
+l.1328 ...ions within Cypress Creek (WBID 3235C).}
                                                   
-Overfull \hbox (28.2414pt too wide) in paragraph at lines 1334--1355
+Overfull \hbox (28.2414pt too wide) in paragraph at lines 1331--1352
  [][] 
  []
 
@@ -1281,7 +1281,7 @@ b><c:/Users/Paul Julian/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmtt10.pfb><c:/Users/Paul Julian/AppData/Roaming/TinyTeX/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmtt8.pfb><c:/Users/Paul Julian/AppData/Roaming/
 TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on 2021_DOSSAC_TechReport.pdf (29 pages, 2677855 bytes).
+Output written on 2021_DOSSAC_TechReport.pdf (29 pages, 2677774 bytes).
 PDF statistics:
  432 PDF objects out of 1000 (max. 8388607)
  350 compressed objects within 4 object streams
