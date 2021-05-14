@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj
+
+# Added by PJ
+/Untitled/
+/src/archive/
+README.Rmd
+SFL_DOSSAC.Rproj
+.RDataTmP
