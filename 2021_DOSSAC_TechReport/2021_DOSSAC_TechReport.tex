@@ -98,9 +98,10 @@
 Dissolved Oxygen Site Specific Alternative Criteria (SSAC) Development}
 
 
-\author{\name{Paul Julian$^{1}$}
+\author{\name{Paul Julian$^{1,2}$}
 \affil{$^{1}$Sanibel-Captiva Conservation Foundation, PO Box 839,
-Sanibel, FL 33957}
+Sanibel, FL 33957\\ $^{2}$Conservancy of Southwest Florida, 1495 Smith
+Preserve Way, Naples, FL 34102}
 }
 
 \thanks{CONTACT Paul
@@ -157,14 +158,15 @@ and II error rates.
 \hypertarget{purpose-of-this-report}{%
 \section{Purpose of this Report}\label{purpose-of-this-report}}
 
-The purpose of this report is to evaluate proposed Florida Department of
-Environmental Protection (FDEP) Dissolved Oxygen (DO) Site Specific
-Alternative Criteria (SSACs) for select streams listed in the assessment
-category 4c. In February 2021, FDEP through the triennial review process
-proposed DO SSAC for eight waterbodies (FDEP 2021). This analysis
-focuses on three of the eight waterbodies located in Charlotte, Lee,
-Glades and Hendry counties and includes Daughtrey (\textit{WBID 3240F}),
-Popash (\textit{WBID 3240Q}) and Cypress (\textit{WBID 3235C}).
+The purpose of this report is to evaluate the proposed Florida
+Department of Environmental Protection (FDEP) Dissolved Oxygen (DO) Site
+Specific Alternative Criteria (SSACs) for select streams listed in the
+assessment category 4c. In February 2021, FDEP through the triennial
+review process proposed DO SSAC for eight waterbodies (FDEP 2021). This
+analysis focuses on three of the eight waterbodies located in Charlotte,
+Lee, Glades and Hendry counties and includes Daughtrey
+(\textit{WBID 3240F}), Popash (\textit{WBID 3240Q}) and Cypress
+(\textit{WBID 3235C}).
 
 Below are specific comments regarding FDEPs technical support document
 (FDEP 2021):
@@ -173,13 +175,13 @@ Below are specific comments regarding FDEPs technical support document
 \def\labelenumi{\arabic{enumi}.}
 \item
   While significant attention was dedicated to background information
-  regarding surface water quality standards, SSACs, and generally
+  regarding surface water quality standards, SSACs, and the current
   applicable DO criteria (Section 1 of the report) very little was
   dedicated as to why the 10\(^{th}\) percentile approach was selected.
   The report states \emph{``To account for the natural variability
   within the waterbodies, the final proposed SSACs were calculated as
-  the 10\(^{th}\) percentiles of the DO saturation levels.''}. This
-  ultimately sets the criterion at a very low value well below the
+  the 10\(^{th}\) percentiles of the DO saturation levels.''}. However,
+  this ultimately sets the criterion at a very low value, well below the
   central tendency of the data (mean or median), muting the natural
   variability. In most cases, average DO saturation levels across the
   period of record are above that of the current DO criterion with only
@@ -188,37 +190,40 @@ Below are specific comments regarding FDEPs technical support document
 \item
   Additional information regarding how the 10\(^{th}\) percentile was
   calculated (i.e.~spatially averaged versus raw daily DO values) would
-  be helpful in understanding the applicability of the proposed SSAC.
-  Moreover, in the methods section, the analysis assumes a normal
-  distribution of the data but does not verify the data distribution for
-  any of the waterbodies in question. To reduce Type II error it is
-  recommended to include an evaluation of data distribution with the
-  appropriate statistical analysis to verify the data fits the
-  assumptions of the test.
+  help understand the applicability of the proposed SSAC. Moreover, in
+  the methods section, the analysis assumes a normal distribution of the
+  data but does not verify the data distribution for any of the
+  waterbodies in question. To reduce Type II error it is recommended to
+  include an evaluation of the data distribution with the appropriate
+  statistical analysis to verify the data fits the assumptions of the
+  test. If the data does not fit the assumptions of the test, an
+  alternative methodology should be applied.
 \item
   Presented for each waterbody a time-series of DO was presented with a
-  linear model (and R\(^{2}\)) as evidence of a trend. Typically the
-  period or record presented is different from the assessment period of
-  record. Furthermore, least-squared (parametric) linear models are not
-  suitable for trend analysis due to the statistical method typically
-  violates the assumptions of parametric linear models. Trend analysis
-  typically violates the assumption of independence of model residuals,
-  where the residuals of the model should lack autocorrelation (Helsel
-  and Hirsch 2002). Analysis presented below suggests that trends
-  reported are different from the trend in the data using suitable
-  statistical analyses.
+  linear model (and R\(^{2}\)) as evidence of a trend. The presented
+  trend analysis period of record is different from the period of record
+  used in the derivation of the DO SSAC. Furthermore, the least-squared
+  (parametric) linear model method is typically not suitable for trend
+  analysis due to time-series data typically violates the assumptions of
+  parametric linear models. The assumptions typically violated is the
+  assumption of independence of model residuals and residual
+  heteroscedasticity (Helsel and Hirsch 2002). The analysis presented
+  below suggests that trends reported are different from the trends in
+  the data using suitable statistical analyses.
 \item
   More transparency is needed in what monitoring locations were used
   beyond just points on a map. Furthermore, some clarity of screening
   protocols and/or data inclusion criteria is needed as some monitoring
   locations have very limited data (i.e.~one sample in the period of
-  record).
+  record). It is recommended to include a table of monitoring locations
+  used (Similar to \textbf{\protect\hyperlink{appendix-b}{Appendix B}}
+  of this report).
 \item
-  Prior to development of the proposed DO SSACs it is recommend that an
-  evaluation of the numeric nutrient criteria (NNC) be assessed during
-  the period of record to ensure that nutrient conditions are not
-  contributing the potential degredation of DO conditions within the
-  waterbody.
+  Prior to the development of the proposed DO SSACs it is recommended
+  that an evaluation of the numeric nutrient criteria (NNC) be assessed
+  during the period of record to ensure that nutrient conditions are not
+  contributing to the potential degradation of DO conditions within the
+  waterbodies in question.
 \end{enumerate}
 
 \hypertarget{methodology}{%
@@ -230,10 +235,10 @@ Below are specific comments regarding FDEPs technical support document
 Water quality data collected for each waterbody of interest during the
 period from 2006 through 2020 were retrieved from the FDEP Impaired
 Water Rule (IWR) database (version Run 60;
-\url{http://publicfiles.dep.state.fl.us/DEAR/IWR/}).The IWR database and
-assessment only includes ambient water quality of surface water within a
-given waterbody. A station will not be included if it samples wastewater
-effluent or if it is a rain gauge, or it samples groundwater.
+\url{http://publicfiles.dep.state.fl.us/DEAR/IWR/}). The IWR database
+and assessment only includes ambient water quality of surface water
+within a given waterbody therefore data associated with wastewater
+effluent or rain gauge, or groundwater is not included.
 
 \hypertarget{data-screening-and-handling}{%
 \subsection{Data Screening and
@@ -256,27 +261,27 @@ accuracy and sensitivity of the laboratory method used. For purposes of
 summary statistics presented in this chapter, data reported as less than
 the MDL were assigned a value of one-half the MDL unless otherwise
 noted. All data presented in this chapter, including historical results,
-were handled consistently with regard to screening and MDL replacement.
+were handled consistently with respect to screening and MDL replacement.
 
 \hypertarget{statistical-analysis}{%
 \subsection{Statistical Analysis}\label{statistical-analysis}}
 
 To verify FDEP's original analysis, trend analysis was performed
-consistent with FDEP's method of using a linear model to evaluate trend
-on the spatially averaged DO time-series across the each WBID during the
-analysis period of record. Model residuals were evaluated for
-autocorrelation using the Breucsch-Godfrey test (\texttt{bgtest} in the
-\texttt{lmtest} R-package; Zeileis and Hothorn 2002) and compared to a
-normal distribution using the Shapiro-Wilk Normality Test. Global
-Validation of Linear Models Assumptions (\texttt{gvlma} R-package; Peña
-and Slate 2006) was also used to evaluate if the model fit the
-assumptions of linear models. Additional trend analysis was performed
-using Kendall's trend test on the spatially averaged DO time-series and
-individual stations with greater than 20 samples per time-series using
-sampling date as the time index. Kendall's seasonal trend test
-(\texttt{kendallSeasonalTrendTest} in the \texttt{EnvStats} R-package;
-Millard 2013) was also applied to spatially averaged monthly data across
-each waterbody using month as season.
+consistent with FDEP's method of using a (least-squared) linear model to
+evaluate the trend of spatially averaged DO saturation levels across the
+each WBID during the analysis period of record. Model residuals were
+evaluated for autocorrelation using the Breucsch-Godfrey test
+(\texttt{bgtest} in the \texttt{lmtest} R-package; Zeileis and Hothorn
+2002) and compared to a normal distribution using the Shapiro-Wilk
+Normality Test. Global Validation of Linear Models Assumptions
+(\texttt{gvlma} R-package; Peña and Slate 2006) was also used to
+evaluate if the model fit the assumptions of linear models. Additional
+trend analysis was performed using Kendall's trend test on the spatially
+averaged DO time-series and individual stations with greater than 20
+samples per time-series using sampling date as the time index. Kendall's
+seasonal trend test (\texttt{kendallSeasonalTrendTest} in the
+\texttt{EnvStats} R-package; Millard 2013) was also applied to spatially
+averaged monthly data across each waterbody using month as season.
 
 To verify that the data fit the assumptions of the parametric percentile
 approach, the distribution of the data was compared to a normal
@@ -312,11 +317,13 @@ during the period of record (Fig \ref{fig:mapfig1};
 \textbf{\protect\hyperlink{appendix-b}{Appendix B}} Table S1). In the
 FDEP report, site 112WRD 264140081494600 was excluded from the analysis,
 presumably due to the proximity of the site to the Caloosahatchee River.
-In evaluating the current data, slight differences in summary statistics
-between the FDEP's report (FDEP 2021) and this summary is noted below
-for DO in Table \ref{tab:stattab1}. Over the analysis period of record,
-three of the 12 monitoring locations consistently exceed the established
-DO stream water quality criterion (Table \ref{tab:tab2}).
+However, no justification was provided for this sites exclusion was
+provided in the report (FDEP 2021). In evaluating the current data,
+slight differences in summary statistics between FDEP's report (FDEP
+2021), and this summary is noted below for DO in Table
+\ref{tab:stattab1}. Over the analysis period of record, three of the 12
+monitoring locations consistently exceed the established DO stream water
+quality criterion (Table \ref{tab:tab2}).
 
 \begin{table}[H]
 
@@ -373,36 +380,39 @@ In FDEP's report, the Department notes that \emph{``A statistically
 significant decreasing trend in DO levels was not found\ldots{}''}. No
 statistical results were reported to accompany this statement and the
 only evidence of a trend was reported as a linear regression and
-R\(^{2}\) value in Figure 18 of the report. Furthermore, the caption of
-this figure includes a statement of \emph{``The regression equation and
-r2 value provided in the inset are from simple linear regression
-analysis and demonstrate no significant decreasing trend in DO
-levels.''} to justify this trend. Moreover this figure includes data
-outside the reported period of record. Trend analysis by a linear model
+R\(^{2}\) value in Figure 18 of the report. The caption of this figure
+includes a statement of \emph{``The regression equation and r2 value
+provided in the inset are from simple linear regression analysis and
+demonstrate no significant decreasing trend in DO levels.''} to justify
+this trend. Moreover, this figure includes data inconsistent with the
+stated analysis period of record. Trend analysis by a linear model
 typically violates the assumption of independence of model residuals,
 where the residuals of the model should lack autocorrelation (Helsel and
-Hirsch 2002).
+Hirsch 2002) and no validation of statistical assumptions were provided
+for the linear model in question.
 
 Using the linear model approach of trend analysis (Fig \ref{fig:fig2}),
 the model had a low degree of fit (R\(^{2}\) = 0.01), significantly
 auto-correlated residuals (Statistic = 27.4, df = 3, \(\rho\)
 \textless0.01; Fig \ref{fig:fig3}) and the residuals of the model was
 significantly different from a normal distribution (W=0.99, \(\rho\)
-\textless0.01). The global validation of linear models assumptions also
-indicate that the link function, skewness and overall assumptions were
-not satisfied (Global Stat = 20.37, \(\rho\) \textless0.001). When this
-same data is evaluated using the Kendall's correlation test it results
-in a significant monotonic decline in DO across the WBID (\(\tau\) =
--0.07, \(\rho\) = \textless0.05). At individual monitoring locations, of
-the five monitoring locations with sufficient data, two locations had
-significantly declining trends while three had no significant trend
-(Table \ref{tab:trendtab3}). From a seasonal perspective the DO
-saturation levels also significantly declined (\(\tau\) = -0.14,
-\(\rho\) \textless0.05) at a rate of -0.31 \% DO Yr\(^{-1}\) over the
-period of record. The significantly declining trends within and across
-this waterbody should be taken into considered when establishing any
-water quality criterion. Given these results, setting a DO SSAC for this
-waterbody could potentially perpetuating a declining existing condition.
+\textless0.01). Moreover, the global validation of linear models
+assumptions test also indicated that the link function, skewness, and
+overall assumptions were not satisfied (Global Stat = 20.37, \(\rho\)
+\textless0.001). Therefore, the linear trend model presented in the
+report is not valid. When this same data is evaluated using the
+Kendall's trend test it results in a significant monotonic decline in DO
+across the WBID (\(\tau\) = -0.07, \(\rho\) = \textless0.05). At
+individual monitoring locations, of the five monitoring locations with
+sufficient data, two locations had significantly declining trends while
+three had no significant trend (Table \ref{tab:trendtab3}). From a
+seasonal perspective, the DO saturation levels also significantly
+declined (\(\tau\) = -0.14, \(\rho\) \textless0.05) at a rate of -0.31
+\% DO Yr\(^{-1}\) over the period of record. The significantly declining
+trends within and across this waterbody should be taken into
+consideration when establishing any water quality criterion. Given these
+results, setting a DO SSAC for this waterbody could potentially
+perpetuate a declining existing condition.
 
 \begin{figure}[H]
 \includegraphics[width=1\linewidth]{C:/Julian_LaCie/_GitHub/SFL_DOSSAC/Plots/WBID3240F_trendmap} \caption{\label{fig:mapfig1} Monitoring locations and individual station trend results within WBID 3240F - Daughtrey Creek.}\label{fig:unnamed-chunk-3}
@@ -447,11 +457,12 @@ FDEP (2021) is that the data must be normally distributed. Both
 Shapiro-Wilk (W=0.99, \(\rho\)\textless0.001) and Anderson-Darling
 (A=1.22, \(\rho\)\textless0.01) test indicated that the data was
 significantly different from a normal distribution. Moreover,
-quantile-quantile and density histogram (Fig \ref{fig:fig4}) indicate a
-slight divergence from the normal distribution. Given that the data does
-not fit a normal distribution, application of the parametric 10\(^{th}\)
-percentile could result in increased Type-II error and an alternative
-approach considered.
+quantile-quantile plot and DO percent saturation density histogram (Fig
+\ref{fig:fig4}) indicate a slight divergence from the theortical normal
+distribution. Given that the data does not fit a normal distribution,
+application of the parametric 10\(^{th}\) percentile could result in
+increased Type-II error and an alternative approach should be
+considered.
 
 \begin{figure}[H]
 
@@ -469,11 +480,11 @@ Within the IWR database, WBID 2340Q has a total of 12 sites with DO data
 during the period of record (Fig \ref{fig:mapfig5};
 \textbf{\protect\hyperlink{appendix-b}{Appendix B}} Table S2). In
 evaluating the current data, slight differences in summary statistics
-between the FDEP's report (FDEP 2021) and this summary is noted below
-for DO in Table \ref{tab:stattab4}. The difference between FDEP's report
-and this summary is the inclusion of four additional samples which
-slightly change the summary statistics over the period of record. Over
-the analysis period of record, two of the 12 monitoring locations
+between FDEP's report (FDEP 2021), and this summary is noted below for
+in Table \ref{tab:stattab4}. The difference between FDEP's report and
+this summary is the inclusion of four additional samples which slightly
+change the summary statistics over the period of record. Over the
+analysis period of record, two of the 12 monitoring locations
 consistently exceed the established DO stream water quality criterion
 (Table \ref{tab:tab5}).
 
@@ -529,33 +540,31 @@ consistently exceed the established DO stream water quality criterion
 \subsubsection{Trend Analysis}\label{trend-analysis-1}}
 
 Similar to Daughtrey creek, the department justified no declining trend
-in DO saturation levels using the linear model approach. Using the
-linear model approach of trend analysis (Fig \ref{fig:fig6}), the model
-had a low degree of fit (R\(^{2}\) = 0.06), significantly
-auto-correlated residuals (Statistic = 48.3, df = 3, \(\rho\)
-\textless0.001; Fig \ref{fig:fig7}) and the residuals of the model was
-significantly different from a normal distribution (W=0.99, \(\rho\)
-\textless0.01). The global validation of linear models assumptions
-analysis also indicate that the link function, residual kurtosis and
-overall assumptions were not satisfied (Global Stat = 13.32, \(\rho\)
-\textless0.01). When this same data is evaluated using the Kendall's
-correlation test it results in a significant monotonic decline in DO
-across the WBID (\(\tau\) = -0.14, \(\rho\) \textless0.001). At
+in DO saturation levels using the linear model approach. In evaluating
+the linear trend model (Fig \ref{fig:fig6}), the model had a low degree
+of fit (R\(^{2}\) = 0.06), significantly auto-correlated residuals
+(Statistic = 48.3, df = 3, \(\rho\) \textless0.001; Fig \ref{fig:fig7})
+and the residuals of the model was significantly different from a normal
+distribution (W=0.99, \(\rho\) \textless0.01). The global validation of
+linear models assumptions test also indicated that the link function,
+residual kurtosis, and overall assumptions were not satisfied (Global
+Stat = 13.32, \(\rho\) \textless0.01). When this same data is evaluated
+using Kendall's trend test it results in a significant monotonic decline
+in DO across the WBID (\(\tau\) = -0.14, \(\rho\) \textless0.001). At
 individual monitoring locations, of the two monitoring locations with
-sufficient data, both had significantly declining trends while (Table
-\ref{tab:trendtab6}). From a seasonal perspective the DO saturation
+sufficient data, both had significantly declining trends (Table
+\ref{tab:trendtab6}). From a seasonal perspective, the DO saturation
 levels also significantly declined (\(\tau\) = -0.21, \(\rho\)
 \textless0.001) at a rate of -0.90 \% DO Yr\(^{-1}\) over the period of
-record. From a visual perspective, DO saturation levels were much more
-variable and elevated early in the analysis period of record when
-comparing later in the period of record(Fig
-\textbackslash ref\{fig:fig6{]}). Furthermore, Figure 21 presented by
-FDEP 2021, with an extended period of record accentuates this change in
-DO condition. The significantly declining trends within and across this
-waterbody and the number of sites with a large enough sample size should
-be taken into considered when establishing any water quality criterion.
-Given these results, setting a DO SSAC for this waterbody could
-potentially perpetuating a declining existing condition.
+record. Furthermore, from a visual perspective, DO saturation levels
+were much more variable and elevated early in the analysis period of
+record (2006 - 2008) when comparing later in the period of record (Fig
+\textbackslash ref\{fig:fig6{]}). In FDEP's report, Figure 21 (FDEP
+2021), with an extended period of record accentuates this change in DO
+condition. Given the significantly declining trends within and across
+this waterbody, establishing a DO SSAC for this waterbody could
+potentially perpetuate a declining existing condition thereby causing
+degradation of water quality, impacting flora and fauna.
 
 \begin{figure}[H]
 
@@ -603,13 +612,14 @@ Station ID & Sample Size & Kendall's $\tau$ & $\rho$ -value\\
 \subsubsection{Data Distribution}\label{data-distribution-1}}
 
 Both Shapiro-Wilk (W=0.99, \(\rho\)\textless0.001) and Anderson-Darling
-(A=1.74, \(\rho\)\textless0.001) test indicated that the data was
+(A=1.74, \(\rho\)\textless0.001) test indicated that the DO data was
 significantly different from a normal distribution. Moreover,
-quantile-quantile, cumulative distribution function and density
-histogram (Fig \ref{fig:fig8}) indicate a divergence from a normal
-distribution. Given that the data does not fit a normal distribution,
-application of the parametric 10\(^{th}\) percentile could result in
-increased Type-II error and an alternative approach considered.
+quantile-quantile plot, cumulative distribution function plot and
+density histogram (Fig \ref{fig:fig8}) indicate a divergence from a
+normal distribution. Given that the data does not fit a normal
+distribution, application of the parametric 10\(^{th}\) percentile could
+result in increased Type-II error and an alternative approach
+considered.
 
 \begin{figure}[H]
 
@@ -630,14 +640,14 @@ Creek (Fig \ref{fig:mapfig9};
 Figure 23 in the FDEP report only indicates potentially four monitoring
 locations. Given these data discrepancies Table \ref{tab:stattab7}
 includes all available data within the waterbody compared to values
-reported by FDEP (FDEP 2021). Given the disparity between what is
-presented in the report and what is available in the IWR database, it is
-unclear as to what data was used to derive the proposed DO SSAC for
-Cypress Creek (WBID 3235C). Over the analysis period of record given the
-limited data, two of the 11 monitoring locations consistently exceed the
-established DO stream water quality criterion. The remaining monitoring
-locations within Cypress Creek proper and locations across the waterbody
-had limited annual data with the exception of 21FLEECOSPANISHGR (Table
+reported by FDEP (FDEP 2021). The disparity between what is presented in
+the report and what is available in the IWR database it is unclear as to
+what data was used to derive the proposed DO SSAC for Cypress Creek
+(WBID 3235C). Over the analysis period of record given the limited data,
+two of the 11 monitoring locations consistently exceed the established
+stream DO water quality criterion. The remaining monitoring locations
+within Cypress Creek proper and locations across the waterbody had
+limited annual data with the exception of 21FLEECOSPANISHGR (Table
 \ref{tab:tab8}).
 
 \begin{table}[H]
@@ -699,16 +709,16 @@ had limited annual data with the exception of 21FLEECOSPANISHGR (Table
 \hypertarget{trend-analysis-2}{%
 \subsubsection{Trend Analysis}\label{trend-analysis-2}}
 
-Using the linear model approach of trend analysis (Fig \ref{fig:fig10}),
-the model had a low degree of fit (R\(^{2}\) = 0.02) and significantly
+Using the linear model trend approach (Fig \ref{fig:fig10}), the model
+had a low degree of fit (R\(^{2}\) = 0.02) and significantly
 auto-correlated residuals (Statistic = 17.6, df = 3, \(\rho\)
 \textless0.001; Fig \ref{fig:fig11}). While the residuals of the trend
-model were normally distribution (W=0.99, \(\rho\) = 0.68), the model
-did not meet the other assumptions of linear models based on the global
-validation of linear models assumptions analysis (Global Stat = 14.80,
-\(\rho\) \textless0.01). When evaluated using the Kendall's correlation
-test no monotonic trend in DO across the WBID was detected (\(\tau\) =
-0.09, \(\rho\) = 0.05) or individual monitoring locations (Table
+model were normally distributed (W=0.99, \(\rho\) = 0.68), the model did
+not meet the other assumptions of linear models based on the global
+validation of linear models assumptions test (Global Stat = 14.80,
+\(\rho\) \textless0.01). When evaluated using the Kendall's trend test
+no monotonic trend in DO across the WBID was detected (\(\tau\) = 0.09,
+\(\rho\) = 0.05) or individual monitoring locations (Table
 \ref{tab:trendtab9} and Fig \ref{fig:mapfig9}). From a seasonal
 perspective the DO saturation levels had a borderline significantly
 increasing trend (\(\tau\) = 0.12, \(\rho\) = 0.05). These results are
@@ -717,7 +727,7 @@ specifically. However, one monitoring location within Cypress Creek
 (21FLEECOCYPRESSGR) did not have a statistically significant monotonic
 trend (Table \ref{tab:trendtab9}). Given these results, setting a DO
 SSAC for this waterbody could be feasible given the potentially
-improving seasonal or a lack of a monotonic trend in DO saturation
+improving seasonal trend or a lack of a monotonic trend in DO saturation
 levels across the waterbody.
 
 \begin{table}[H]
@@ -770,6 +780,9 @@ If monitoring locations within Cypress Creek proper were considered to
 develop the DO SSAC, the data do not fit a normal distribution,
 application of the parametric 10\(^{th}\) percentile could result in
 increased Type-II error and an alternative approach considered.
+Alternatively, if monitoring data outside of Cypress Creek was used to
+derived the DO SSAC, then SSAC could be biased by conditions in other
+parts of the WBID (i.e.~Spanish Creek, Fitcher's Creek, etc.).
 
 \begin{figure}[H]
 
@@ -808,8 +821,8 @@ increased Type-II error and an alternative approach considered.
 \item
   Given that significantly declining trends were detected, the central
   tendency of the data across the period of record is above the current
-  DO criterion and the data does not fit the assumptions of the
-  parametric percentile approach, it is recommended that an alternative
+  DO criterion, and the data does not fit the assumptions of the
+  parametric percentile approach it is recommended that an alternative
   approach be considered for Daughtrey and Popash creek.
 \item
   Based on discrepancies between what was reported by FDEP and the
@@ -826,17 +839,17 @@ increased Type-II error and an alternative approach considered.
   Condition Index (SCI) scores, and each waterbody has a high percentage
   of natural lands, such as wetlands and forests, and are not highly
   influenced by anthropogenic inputs.''} However, the SCI data presented
-  in Appendix A of the FDEP report (FDEP 2021) is very limited and is
-  temporally and spatially limited.
+  in Appendix A of the FDEP report (FDEP 2021) is both temporally and
+  spatially limited.
 \item
   Not presented in this report, it would appear that several of the
-  monitoring locations within each waterbody exceeds either the total
-  phosphorus or total nitrogen NNC
+  monitoring locations within each waterbody exceeds either the stream
+  total phosphorus or total nitrogen NNC
   (\href{https://www.flrules.org/gateway/ruleno.asp?id=62-302.531}{62-302.531}(2)(c)2
   FAC) during the evaluation period of record. It is recommended that an
   assessment be conducted to ensure that nutrient conditions are not
   contributing to degraded DO conditions within these waterbodies prior
-  proposing alternative DO criterion.
+  to proposing an alternative DO criterion.
 \end{itemize}
 
 \hypertarget{references}{%
