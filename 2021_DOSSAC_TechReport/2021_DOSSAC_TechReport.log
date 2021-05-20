@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.5.10)  18 MAY 2021 13:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.5.18)  18 MAY 2021 16:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **2021_DOSSAC_TechReport.tex
 (./2021_DOSSAC_TechReport.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-05-07> (./interact.cls
+L3 programming layer <2021-05-11> (./interact.cls
 Document Class: interact 2016/10/17 v1.03 Interact LaTeX document class
 
 (c:/Users/Paul Julian/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article
@@ -1245,10 +1245,10 @@ Package rerunfilecheck Info: File `2021_DOSSAC_TechReport.out' has not changed.
 (rerunfilecheck)             Checksum: 3FE327F3A5DBC32379899FAAF2BEB38A;2703.
  ) 
 Here is how much of TeX's memory you used:
- 13031 strings out of 480806
- 199203 string characters out of 5903166
- 587441 words of memory out of 5000000
- 30042 multiletter control sequences out of 15000+600000
+ 13029 strings out of 480796
+ 199050 string characters out of 5902723
+ 587665 words of memory out of 5000000
+ 30052 multiletter control sequences out of 15000+600000
  420039 words of font info for 93 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  85i,14n,90p,661b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1281,7 +1281,7 @@ b><c:/Users/Paul Julian/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmtt10.pfb><c:/Users/Paul Julian/AppData/Roaming/TinyTeX/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmtt8.pfb><c:/Users/Paul Julian/AppData/Roaming/
 TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on 2021_DOSSAC_TechReport.pdf (29 pages, 2679176 bytes).
+Output written on 2021_DOSSAC_TechReport.pdf (29 pages, 2679211 bytes).
 PDF statistics:
  433 PDF objects out of 1000 (max. 8388607)
  351 compressed objects within 4 object streams

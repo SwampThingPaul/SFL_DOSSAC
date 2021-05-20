@@ -1,5 +1,7 @@
 ------------------------------------------------------------------------
 
+[![DOI](https://zenodo.org/badge/367424623.svg)](https://zenodo.org/badge/latestdoi/367424623)
+
 ### Contact
 
 Paul Julian PhD - [Email](mailto:pjulian@sccf.org)
